@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringReactiveSecurityApplication<spring-reactive-security>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.security.SpringReactiveSecurityApplication",
+            "projectName": "spring-reactive-security",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
